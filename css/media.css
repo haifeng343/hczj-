@@ -1,0 +1,144 @@
+@media only screen and (min-width: 991px) and (max-width: 1024px) {
+	.yi .sao{
+		width: 120px;
+	}
+}
+@media screen and (max-width: 1200px) { 
+	body{ 
+		width: 1200px!important; 
+	} 
+	footer{
+		min-width: 1200px!important; 
+	}
+	.navbar{
+		min-width: 1200px!important;
+		display: block!important;
+	}
+	.container{
+		width: 980px!important;
+	}
+	.log{
+		margin-left: 18%;
+	}
+
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+	header nav{
+		width: 80%;
+	}
+	header nav ul{
+		padding-left: 6%;
+		margin: 0;
+	}
+	header .tel{
+		display: none;
+	}
+	.container h1{
+		font-size: 30px;
+	}
+	.yi{
+		border: none;
+	}
+	.brand1 .tb p{
+		text-align: center;
+	}
+}
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+	
+	.logins a{
+		display: none;
+	}
+	.brand1 .tb p{
+		text-indent: 2em;
+	}
+	.container h1{
+		font-size: 28px;
+	}
+	.container h1:first-of-type{
+		top: 20%;
+	}
+	.xuanfu{
+		width: 50px;
+		height: 150px;
+	}
+	.xuanfu .v1{
+		width: 50px;
+		height: 50px;
+		text-align: center;
+	    font-size: 12px;
+	    color: #FFFFFF;
+	    border-bottom: 1px solid #FFFFFF;
+	    margin: 0 auto;
+	}
+	.xuanfu .v1 img{
+		width: 25px;
+	    position: relative;
+	    top: 5px;
+	}
+	.xuanfu .v1 p {
+	    line-height: 30px;
+	}
+	.ner1:before{
+		font-size: 74px;
+	}
+	.beij .ner2:before{
+		font-size: 74px;
+	}
+	.list .ner3:before{
+		font-size: 74px;
+	}
+	.beij .ner4:before{
+		font-size: 74px;
+	}
+	.bfv{
+		padding-top: 20px;	
+	}
+	.bfv img:first-of-type{
+		width: 90%;
+	}
+	.bfv img{
+		width: 44%;
+		margin-left: 5%;
+	}
+	.dibu .fuwu{
+		width: 250px;
+	}
+	.dibu .fuwu .zx{
+		left: 21%;
+	}
+	.yi{
+		border: none;
+	}
+	.yi .sao img{
+		width: 100px;
+	}
+	.yi .sao p{
+		margin-top: 30px;
+	}
+	.yi .yuyue button{
+		width: 120px;
+		font-size: 18px;
+	}
+	.jianjie h5:first-of-type{
+		margin-top: 30px;
+	}
+	.jianjie h5{
+		font-size: 14px;
+		font-weight: 600;
+		line-height: 25px;
+	}
+	.jianjie h5 span{
+		font-size: 14px;
+	}
+	.xihuan div .like{
+		    margin-left: 8.33333333%;
+	}
+	.login{
+		top: 50px;
+	}
+}
+@media only screen and (max-width: 320px) {
+	.iphone{
+		display: none;
+	}
+}

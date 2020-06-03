@@ -1,0 +1,148 @@
+.mt10{
+	margin-top: 10px;
+}
+.mt20{
+	margin-top: 20px;
+}
+.mt30{
+	margin-top: 30px;
+}
+.mt40{
+	margin-top: 40px;
+}
+.mt60{
+	margin-top: 60px;
+}
+.mt80{
+	margin-top: 80px;
+}
+.mb20{
+	margin-bottom: 20px;
+}
+.mb40{
+	margin-bottom: 40px;
+}
+.footer{
+	background-color: #4D4D4D;
+}
+.float-left{
+	float: left;
+}
+.float-right{
+	float: right;
+}
+.clear-both{
+	clear: both;
+}
+.margin-auto{
+	margin: 0 auto;
+}
+.fotd-left ul{
+	width: 100%;
+	display: flex;
+	overflow: hidden;
+	margin: 0;
+}
+.fotd-left ul li{
+	width: 19%;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.fotd-left ul li a{
+	color: #FFFFFF;
+	font-size: 14px;
+	margin-right: 5px;
+}
+.fotd-left ul li span{
+	padding-left: 16%;
+	color: #FFFFFF;
+}
+.fotd-left .foo img{
+	width: 55px;
+    height: 56px;
+    position: relative;
+    left: 0px;
+    float: left;
+}
+.fotd-left .foo p{
+	color: #FFFFFF;
+	float: left;
+	font-size: 18px;
+	margin-top: 15px;
+}
+.fotd-left .adr{
+	color: #FFFFFF;
+	text-align: left;
+	padding-left: 1%;
+	font-size: 14px;
+}
+.fotd-right{
+	height: 120px;
+	border-left: 1px solid #FFFFFF;
+}
+.fotd-right img{
+	width: 100px;
+	height: 100px;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.fotd-right img:first-child{
+	margin-left: 0px;
+}
+.fd{
+	font-size: 12px;
+	color: #FFFFFF;
+	margin-top: -81px;
+}
+.mm{
+	transform: translateY(-15px);
+	transition: all .5s ease-in-out;
+}
+.dd{
+	padding: 13px 19px!important;
+	border: 2px solid #F7AB00!important;
+	font-size: 16px;
+}
+.container h1{
+	position: absolute;
+	z-index: 1;
+	top: 35%;
+	color: #FFFFFF;
+	font-weight: 700;
+	left: 55%;
+	font-size: 45px;
+	text-align: left;
+}
+.b1 img:hover{
+	transform:scale(1.1,1.1);
+	transition-duration: 1s;
+}
+.list-right ul li div:hover{
+	transform: rotateZ(360deg);
+	transition-duration: 1.5s;
+}
+.detail .lef img:hover{
+	transform: translateY(10px);
+	transition-duration: .7s;
+	box-shadow:0 4px 4px 2px #F5F5F5;
+	cursor: pointer;
+}
+.hove:hover{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+	transition-duration: 1s;
+	transform: translateY(10px);
+}
+.ds:hover{
+	box-shadow: 0 4px 8px 2px rgba(0, 0, 0, .2);
+	transition-duration: .7s;
+	transform: translateY(-5px);
+}
+#accordion{
+	box-shadow: 0 4px 8px 2px rgba(0, 0, 0, .2);
+}
+
+
+
+
+
